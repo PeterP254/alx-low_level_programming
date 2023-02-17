@@ -14,7 +14,6 @@ if (num == 9)
 continue;
 putchar(',');
 putchar(' ');
-}
 
 return (0);
 }
